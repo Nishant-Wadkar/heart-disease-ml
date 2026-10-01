@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+e1/
+e2/
+python/
+ass3data/
